@@ -19,6 +19,10 @@ Fork this repository and clone your newly created repository. At the end of one 
 - No form input is required
 - No visual styling is required
 
+## Before Starting User Stories
+- You will have 4 failing model tests. (Let an instructor know if you are not seeing 4 failing tests)
+- Get these 4 tests to pass **before** moving on to the user stories.
+
 ## User Stories
 
 ```
