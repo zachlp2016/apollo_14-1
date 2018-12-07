@@ -12,15 +12,16 @@ Fork this repository and clone your newly created repository. At the end of one 
 
 ## Requirements
 
-- TDD all new work; you may postpone model tests for attribute validations only
+- TDD all new work; you may postpone model tests for attribute validations ONLY; any model METHODS you write must be fully tested.
 
 ## Not Required
 
-- No form input is required
-- No visual styling is required
+- No form input is required or expected
+- No visual styling is required or expected
 
 ## Before Starting User Stories
-- You will have 4 failing model tests. (Let an instructor know if you are not seeing 4 failing tests)
+
+- You will have 4 failing model tests. (Let your instructor know if you are not seeing 4 failing tests)
 - Get these 4 tests to pass **before** moving on to the user stories.
 
 ## User Stories
