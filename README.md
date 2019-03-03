@@ -21,6 +21,7 @@ Fork this repository and clone your newly created repository. At the end of one 
 
 ## Before Starting User Stories
 
+- This challenge uses a many-to-many table (your migrations are already built!), be sure to check your setup carefully.
 - You will have 4 failing model tests. (Let your instructor know if you are not seeing 4 failing tests)
 - Get these 4 tests to pass **before** moving on to the user stories.
 
